@@ -399,7 +399,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "MOIRANGTHEM HENTHOIBA",
     roll: "NDUIBC2553", course: "BCA (4 Years)", section: "Section B",
-    meme: null, reason: null },
+    meme: "./images/henthoiba_meme.webp", reason: "daily mid-night crisis before sleeping" },
   { name: "DENIS YUMNAM",
     roll: "NDUIBC2554", course: "BCA (4 Years)", section: "Section B",
     meme: null, reason: null },
