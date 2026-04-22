@@ -163,7 +163,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "WIRAMTHIULIU CHAWANG",
     roll: "NDUIBC2472", course: "BCA (4 Years)", section: "Section A",
-    meme: null, reason: null },
+    meme: ‎images/NDUIBC2472.jpg‎, reason: null },
   { name: "NIMRANG RENGNEISONG KOM",
     roll: "NDUIBC2473", course: "BCA (4 Years)", section: "Section A",
     meme: null, reason: null },
